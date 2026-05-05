@@ -1,0 +1,14 @@
+langgraph
+langgraph-checkpoint-postgres
+langchain-groq
+langchain-community
+langchain-core
+langchain-mcp-adapters
+psycopg[binary,pool]
+python-dotenv
+faiss-cpu
+pypdf
+requests
+pydantic
+sentence-transformers
+streamlit
